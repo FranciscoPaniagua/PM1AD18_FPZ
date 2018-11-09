@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InterfazUsuarioViewsBasicosRegistroUsuario</string>
+    <string-array name="instituciones_array">
+        <item>ITM</item>
+        <item>ITSUR</item>
+        <item>UNAM</item>
+        <item>ITESO</item>
+        <item>UVA</item>
+    </string-array>
+</resources>
